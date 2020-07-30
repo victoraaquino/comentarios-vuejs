@@ -1,7 +1,7 @@
 # Comentários com VueJs
 
 ## Intuito do Projeto
-O Projeto foi feito com fins didáticos e seguindo o tutorial feito pelo [programadorabordo](https://github.com/programadorabordo), porém com algumas mudanças e interações diferentes
+O Projeto foi feito para fins didáticos e seguindo o tutorial feito pelo [programadorabordo](https://github.com/programadorabordo), porém com algumas mudanças e interações diferentes.
 
 ## Conteúdo
 Basicamente, temos 2 projetos, um usando o VueJS CLI com arquivos .vue, e um outro com a mesma funcionalidade, porém usando html,css e javascript com a lib do Vue instanciada.
